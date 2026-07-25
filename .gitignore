@@ -1,0 +1,10 @@
+# Environments
+.venv/
+
+# Ignored folders
+data/
+outputs/
+
+# Python cache (ignores __pycache__ anywhere in the project)
+__pycache__/
+*.pyc
